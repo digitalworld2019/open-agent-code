@@ -101,6 +101,7 @@ What you get with both
 
 </details>
 
+
 <table>
 <tr>
 <td width="50%">
